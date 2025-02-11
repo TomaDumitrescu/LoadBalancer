@@ -1,6 +1,5 @@
 **Copyright 2023 Dumitrescu Toma-Ioan**
 
-
 ### Load Balancer
 
 ### Description:
